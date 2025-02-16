@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Roman Hasan </h1>
 
-<p align="center">Welcome to my GitHub profile! I'm a passionate <strong>**Frontend Developer**</strong> with a love for creating clean, responsive, and user-friendly web experiences. I enjoy turning ideas into real-world applications using the latest web technologies.</p>
+<p align="center">Welcome to my GitHub profile! I’m a passionate **Front-End Web Developer** who loves creating interactive and responsive web applications. I specialize in modern web technologies and am always eager to learn new skills and explore new frameworks. </p>
 
 <br/>
 <br/>
